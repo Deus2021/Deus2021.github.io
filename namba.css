@@ -1,0 +1,83 @@
+body
+{
+  background: -webkit-linear-gradient(top, rgb(42, 1, 61), rgb(71, 7, 7), rgb(63, 3, 50));
+   opacity: 0.8;
+   filter: brightness(opacity=60);
+   overflow-x: hidden;
+   background-size: cover;
+   width: 99%;
+   height: auto;
+
+ }
+
+.bg-gradient{
+   border-radius: 40px;
+   margin: 10px;
+   background: rgb(2,0,36) !important;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%) !important;
+       
+  color: blanchedalmond !important;
+  
+  }
+  .active {
+   background-color: #1b6405;
+   border-radius: 10px;
+ }
+  li a{
+     color:blanchedalmond !important;
+  }
+  
+  h1 {
+    font-size: 30px;
+    background: -webkit-linear-gradient(rgb(221, 91, 5), rgb(202, 100, 4));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .drop
+  {
+      background: rgb(2,0,36) !important;
+    background: linear-gradient(90deg, rgb(8, 129, 62) 0%, rgb(112, 9, 121) 35%, rgb(44, 2, 92) 100%) !important;
+       
+  }
+  .personl{
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+  }
+  
+  .personl:hover {
+    color: #1e2125;
+    background-color: #060707 ;
+  }
+
+  .card
+  {
+    width: 100% !important;
+    height: 400px !important;
+    margin: 10px !important;
+    background: linear-gradient(top , blue, yellow) !important;
+  }
+  .card_2
+  {
+    float: left;
+    margin-left: 0px;
+  }
+  /* .heder
+  {
+    text-align: center !important;
+       margin-left: 20px;
+    text-decoration: none;
+    list-style: none;
+    list-style-position: outside;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: #056464;
+  } */
