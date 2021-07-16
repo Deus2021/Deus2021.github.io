@@ -60,7 +60,7 @@ body
 
   .card
   {
-    width: 100% !important;
+    width: 98% !important;
     height: 400px !important;
     margin: 10px !important;
     background: linear-gradient(top , blue, yellow) !important;
@@ -70,14 +70,84 @@ body
     float: left;
     margin-left: 0px;
   }
-  /* .heder
+  .heder
   {
     text-align: center !important;
-       margin-left: 20px;
+    margin-left: 20px;
+    float: left !important;
     text-decoration: none;
     list-style: none;
     list-style-position: outside;
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-shadow: #056464;
-  } */
+  }
+  .boda
+  {
+    width: 98%;
+    height: 500px;
+    margin: 5px 4px 5px 11px !important;
+    word-wrap: break-word;
+    background-color: rgb(19, 0, 6);
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 5px;
+    color: rgb(241, 235, 235);
+    text-align: center !important;
+  }
+  .row_form
+  {
+    text-align: left !important;
+  }
+  p
+  {
+      text-align: justify;
+      text-indent: 0px;
+      letter-spacing: 0px;
+      font-family: sans-serif;
+  }
+  .picha_1
+  {
+      background-image: url(picha/kelvin_pic\ \(7\).jpeg) !important;
+      background-size: cover;
+      opacity: 100px;
+      clear: both;
+      transform-origin: center;
+      text-align: center;
+      color: rgba(252, 249, 246, 0.9);
+  }
+ /* .img-thumbnail
+  {
+       /* width: 230px !important;
+       height: 250px !important;
+       margin-top: -180px !important;
+       margin-left: 20px !important;
+       border-radius: 20px !important; */
+
+  .text-muted 
+  {
+    color: rgb(248, 246, 246) !important;
+  }
+  .card-text
+  {
+     padding: 8px !important;
+     margin-top: 20px;
+  }
+  aside
+  {
+    float: right;
+    width: 100px;
+    height: 100px;
+    display: block;
+    background-color: burlywood;
+    margin: -130px 10px 0px 0px ;
+  }
+  .p_1
+  {
+    padding: 10px 5px 5px  20px;
+    text-align: justify;
+  }
+  .form_1
+  {
+    height: 500px !important;
+  }
